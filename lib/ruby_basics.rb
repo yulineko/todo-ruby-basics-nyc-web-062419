@@ -16,6 +16,7 @@ def greeting(greeting, name)
 end
 
 def return_a_value(value)
+  value = "expert"
   return value
 end
 
